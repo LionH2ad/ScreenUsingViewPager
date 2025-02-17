@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ScreenUsingViewPager</string>
+
+    <string name="welcome">환영 합니다!</string>
+    <string name="setting_screen">설정 화면 입니다.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
